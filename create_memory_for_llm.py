@@ -9,7 +9,7 @@ load_dotenv()
 
 
 # Step 1: Load raw PDF(s)
-DATA_PATH="data/"
+DATA_PATH = "data/"
 def load_pdf_files(data):
     loader = DirectoryLoader(data,
                              glob='*.pdf',
