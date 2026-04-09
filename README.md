@@ -137,7 +137,7 @@ This is intentional and production-grade behavior.
 
 **Harsh Raj**
 - GitHub: [@Harsh28-raj](https://github.com/Harsh28-raj)
-- 2nd Year CS Student | ML Engineer | MLCOE Member
+- 
 
 ---
 
